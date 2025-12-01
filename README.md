@@ -44,10 +44,14 @@ Copy đường link video (Youtube, Facebook...).
 Bấm nút "Dán Link" hoặc dán thủ công vào ô nhập liệu.
 
 Bấm nút "🔍 Kiểm tra" để xem thông tin video (tiêu đề, ảnh).
+<img width="675" height="82" alt="Screenshot 2025-12-01 194354" src="https://github.com/user-attachments/assets/755c1852-ec1d-43a9-aea4-1c5b00e645b7" />
 
-Chọn Định dạng (Video hoặc Âm thanh) và Chất lượng mong muốn.
+Chọn vị trí, Định dạng (Video hoặc Âm thanh) và Chất lượng mong muốn.
+<img width="674" height="121" alt="Screenshot 2025-12-01 194531" src="https://github.com/user-attachments/assets/d239023d-e891-44d5-ab15-3dc34e22f682" />
 
 Bấm "BẮT ĐẦU TẢI NGAY" và chờ đợi.
+
+<img width="673" height="365" alt="Screenshot 2025-12-01 194622" src="https://github.com/user-attachments/assets/02e61d0d-993e-4560-ab6e-bbbf9d65e384" />
 
 💻 Hướng dẫn dành cho Lập trình viên (Development)
 Nếu bạn muốn phát triển thêm hoặc chạy từ mã nguồn Python.
