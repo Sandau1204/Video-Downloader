@@ -30,7 +30,7 @@ class UniversalDownloaderApp:
         except Exception:
             pass # Bỏ qua nếu không phải Windows
 
-        self.root.title("Universal Video Downloader - Pro Version")
+        self.root.title("Video Downloader")
         
         # Cách này sửa lỗi do file icon.ico thực chất là ảnh JPG/PNG
         try:
@@ -393,4 +393,5 @@ if __name__ == "__main__":
     
     root = tk.Tk()
     app = UniversalDownloaderApp(root)
+
     root.mainloop()
