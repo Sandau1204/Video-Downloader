@@ -58,13 +58,13 @@ Nếu bạn muốn phát triển thêm hoặc chạy từ mã nguồn Python.
 Bash
 
 # Clone dự án về máy
-git clone https://github.com/Sandau1204/Video-Downloader.git
+```git clone https://github.com/Sandau1204/Video-Downloader.git```
 
 # Di chuyển vào thư mục
-cd Universal-Downloader
+```cd Universal-Downloader```
 
 # Cài đặt các thư viện cần thiết
-pip install yt-dlp pillow
+```pip install yt-dlp pillow```
 
 2. Khắc phục lỗi Warning YouTube
 Để tránh lỗi cảnh báo và giảm tốc độ tải từ Youtube, khuyến khích cài đặt Node.js:
@@ -76,7 +76,7 @@ Sau khi cài, khởi động lại VS Code/Terminal.
 3. Chạy phần mềm
 Bash
 
-python VideoDownloader.py
+```python VideoDownloader.py```
 
 ❓ Câu hỏi thường gặp (Troubleshooting)
 Q: Tại sao tôi tải video về nhưng không có tiếng? A: Bạn chưa đặt file ffmpeg.exe cùng chỗ với phần mềm. Youtube tách riêng hình và tiếng ở chất lượng cao, cần FFmpeg để ghép lại.
